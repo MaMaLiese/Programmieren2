@@ -1,4 +1,7 @@
 public class Student {
+    private static int counter = 0; //wenn das nicht static wäre, wäre bei jedem Studenten der counter auf 0 gesetzt
+
+    private int nonStaticCounter = 0; //2 counter ist nur zur veranschaulichung
     private String firstName;
     private String lastName;
     private Class[] classes;

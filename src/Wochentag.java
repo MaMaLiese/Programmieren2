@@ -1,0 +1,3 @@
+public enum Wochentag {
+    MONDAY, TUESTDAY, WEDNESDAY, THIRSTDAY, FRIDAY
+}
