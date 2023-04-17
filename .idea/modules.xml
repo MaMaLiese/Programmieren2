@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bsp_Event/Bsp_Event.iml" filepath="$PROJECT_DIR$/Bsp_Event/Bsp_Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bsp_Player/Bsp_Player.iml" filepath="$PROJECT_DIR$/Bsp_Player/Bsp_Player.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klausur_P1/Klausur_P1.iml" filepath="$PROJECT_DIR$/Klausur_P1/Klausur_P1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programmieren2.iml" filepath="$PROJECT_DIR$/Programmieren2.iml" />
     </modules>
   </component>
