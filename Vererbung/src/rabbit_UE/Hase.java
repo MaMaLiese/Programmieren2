@@ -1,6 +1,7 @@
 package rabbit_UE;
 
-public class Hase {
+public class Hase implements GoesToParty {
+
 
 
 
