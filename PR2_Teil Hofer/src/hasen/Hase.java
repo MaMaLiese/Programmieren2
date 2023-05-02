@@ -3,6 +3,7 @@ package hasen;
 public class Hase implements GoesToParty  {
     protected String name;
 
+
     public Hase(String n){
         name = n;
     }
